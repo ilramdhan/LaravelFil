@@ -64,3 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Install Laragon -> Extract PHP.zip (laragon/bin/php) change php version in laragon.
+-> Setting (disable Apache) & Enable Nginx(port 80).
+-> Download Install Composer Pilih bin/php/php-v/php.exe
+-> Download Install NodeJS (pilih prebuilt installer) -> Extract ke laragon/bin/nodejs
+-> Right CLick laragon-php-extension-> (zip, pdo_sqlite, sqlite3)
+
+
