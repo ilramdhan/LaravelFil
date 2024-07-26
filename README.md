@@ -72,3 +72,5 @@ Install Laragon -> Extract PHP.zip (laragon/bin/php) change php version in larag
 -> Right CLick laragon-php-extension-> (zip, pdo_sqlite, sqlite3)
 
 
+https://laravel-news.com/laravel-livewire-tips-and-tricks
+
